@@ -37,3 +37,17 @@ https://tacc.utexas.edu/systems/stallion/  https://www.theregister.com/2023/01/2
 For instance, one of the first applications of the updated array was by the Cosmic Evolution Early Release Science Survey (CEERS), which used Stallion to visualize data collected by the James Webb Space Telescope. Another application is for high-resolution rendering of models."
 
 The Stallion could be usedful in identifying wreckage on Mars and the Moon for human eyes, but nowadays, that is likely augmented by automated AI. Nonetheless, as the saying goes, "Everything in Texas is bigger."
+
+
+Cepheid variables
+--
+
+https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe 
+
+"Astronomers have used the James Webb and Hubble space telescopes to confirm one of the most troubling conundrums in all of physics — that the universe appears to be expanding at bafflingly different speeds depending on where we look."
+
+"The second method uses pulsating stars called Cepheid variables. Cepheid stars are dying, and their outer layers of helium gas grow and shrink as they absorb and release the star's radiation, making them periodically flicker like distant signal lamps.
+
+As Cepheids get brighter, they pulsate more slowly, giving astronomers a means to measure their absolute brightness. By comparing this brightness to their observed brightness, astronomers can chain Cepheids into a "cosmic distance ladder" to peer ever deeper into the universe's past. With this ladder in place, astronomers can find a precise number for its expansion from how the Cepheids' light has been stretched out, or red-shifted.
+
+But this is where the mystery begins. According to Cepheid variable measurements taken by Riess and his colleagues, the universe's expansion rate is around 74 km/s/Mpc: an impossibly high value when compared to Planck's measurements. Cosmology had been hurled into uncharted territory."
