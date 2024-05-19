@@ -11,6 +11,8 @@ https://math.ucr.edu/home/baez/tenfold.html
 
 https://arxiv.org/abs/2306.06020
 
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f96edffd131e9118ad227ec0bd8333e7d8887aa3
+
 https://pirsa.org/23020056 
 
 https://arxiv.org/pdf/2011.14234.pdf
