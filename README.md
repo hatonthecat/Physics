@@ -19,6 +19,17 @@ https://arxiv.org/pdf/2011.14234.pdf
 
 https://arxiv.org/pdf/0912.2157.pdf
 
+Marjorana particle(s):
+
+https://arxiv.org/abs/1902.05508
+
+https://arxiv.org/pdf/2304.14995
+
+https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.051801
+
+https://legend-exp.org/
 
 # Astronomy
 
