@@ -25,6 +25,14 @@ https://arxiv.org/abs/1902.05508
 
 https://arxiv.org/pdf/2304.14995
 
+https://arxiv.org/pdf/0803.0409
+
+https://en.wikipedia.org/wiki/Majorana_equation#Field_quanta
+
+https://en.wikipedia.org/wiki/Majorana_fermion
+
+https://icecube.wisc.edu/
+
 https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/
 
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.051801
