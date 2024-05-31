@@ -61,6 +61,9 @@ For instance, one of the first applications of the updated array was by the Cosm
 
 The Stallion could be usedful in identifying wreckage on Mars and the Moon for human eyes, but nowadays, that is likely augmented by automated AI. Nonetheless, as the saying goes, "Everything in Texas is bigger."
 
+Superconductors:
+--
+https://spectrum.ieee.org/superconducting-computer
 
 Cepheid variables
 --
