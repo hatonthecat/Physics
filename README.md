@@ -76,8 +76,9 @@ https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-
 
 As Cepheids get brighter, they pulsate more slowly, giving astronomers a means to measure their absolute brightness. By comparing this brightness to their observed brightness, astronomers can chain Cepheids into a "cosmic distance ladder" to peer ever deeper into the universe's past. With this ladder in place, astronomers can find a precise number for its expansion from how the Cepheids' light has been stretched out, or red-shifted.
 
+But this is where the mystery begins. According to Cepheid variable measurements taken by Riess and his colleagues, the universe's expansion rate is around 74 km/s/Mpc: an impossibly high value when compared to Planck's measurements. Cosmology had been hurled into uncharted territory."
+
+
 Climate modeling
 --
 https://www.wired.com/story/amoc-collapse-atlantic-ocean/
-
-But this is where the mystery begins. According to Cepheid variable measurements taken by Riess and his colleagues, the universe's expansion rate is around 74 km/s/Mpc: an impossibly high value when compared to Planck's measurements. Cosmology had been hurled into uncharted territory."
