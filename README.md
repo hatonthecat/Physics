@@ -82,3 +82,8 @@ But this is where the mystery begins. According to Cepheid variable measurements
 Climate modeling
 --
 https://www.wired.com/story/amoc-collapse-atlantic-ocean/
+
+Physicist Biographies
+---
+
+Oliver Heaviside https://www.youtube.com/watch?v=T87E4GfMgKM
