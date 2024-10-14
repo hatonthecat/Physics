@@ -87,3 +87,12 @@ Physicist Biographies
 ---
 
 Oliver Heaviside https://www.youtube.com/watch?v=T87E4GfMgKM
+
+TV Series
+--
+
+I watched this series a few months ago: The Tencent Version of The Three Body Problem: https://www.youtube.com/watch?v=3-UO8jbrIoM
+
+The first 2 episodes are in 4k. After the 2nd or 3rd episode, it's available in 1080p from this channel: https://www.youtube.com/watch?v=GBslwuKKAO8
+
+It covers a lot of actual physics concepts, along with some theoretical ones. Also mentions Rachel Carson's _Silent Spring_. 
