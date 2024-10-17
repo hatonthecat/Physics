@@ -96,3 +96,13 @@ I watched this series a few months ago: The Tencent Version of The Three Body Pr
 The first 2 episodes are in 4k. After the 2nd or 3rd episode, it's available in 1080p from this channel: https://www.youtube.com/watch?v=GBslwuKKAO8
 
 It covers a lot of actual physics concepts, along with some theoretical ones. Also mentions Rachel Carson's _Silent Spring_. 
+
+Gravitational Lens
+--
+https://en.wikipedia.org/wiki/Gravitational_lens
+
+https://web.archive.org/web/20160701154224/http://www.einstein-online.info/spotlights/grav_lensing_history
+
+https://www.sciencenews.org/blog/context/amateur-who-helped-einstein-see-light
+
+https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html
