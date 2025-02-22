@@ -2,7 +2,7 @@
 Reference Material
 
 https://www.wsj.com/science/physics/microsoft-quantum-computing-physicists-skeptical-d3ec07f0
-Software is not only a gas (of Nathan Myhrvold's 4 Software Laws) but a Majorana particle that expands in many dimensions ;)
+Software is not only a gas (of Nathan Myhrvold's 4 Software Laws) but a Majorana particle that expands in many dimensions/universes ;)
 
 https://www.space.com/desi-einstein-gravity-dark-energy
 
