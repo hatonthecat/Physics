@@ -3,6 +3,7 @@ Reference Material
 
 https://www.wsj.com/science/physics/microsoft-quantum-computing-physicists-skeptical-d3ec07f0
 Software is not only a gas (of Nathan Myhrvold's 4 Software Laws) but a Majorana particle that expands in many dimensions/universes ;)
+If anything it's a fifth state (plasma is fourth, and superconductivity is a phase, rather than a state i think.)
 
 https://www.space.com/desi-einstein-gravity-dark-energy
 
