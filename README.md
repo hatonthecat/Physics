@@ -1,6 +1,9 @@
 # Physics
 Reference Material
 
+https://www.wsj.com/science/physics/microsoft-quantum-computing-physicists-skeptical-d3ec07f0
+Software is not only a gas (of Nathan Myhrvold's 4 Software Laws) but a Majorana particle that expands in many dimensions ;)
+
 https://www.space.com/desi-einstein-gravity-dark-energy
 
 https://webhome.phy.duke.edu/~kolena/modern/sembroski.html About The Eightfold Way and Murray Gell-Mann 
