@@ -1,5 +1,10 @@
 # Physics
-Reference Material
+Assorted Articles
+--
+
+https://interestingengineering.com/energy/gravity-batteries-for-renewable-energy 
+https://www.youtube.com/watch?v=mxKsK8lPpv8 Sometimes the simplest ideas are the best ideas.
+This article reminds me of an MIT study that asked children and engineers how to get an object (ping pong ball?) out of a jar. Engineers devised an alaborate contraption. Children poured water in the jar so the object floated out.
 
 https://www.wsj.com/science/physics/microsoft-quantum-computing-physicists-skeptical-d3ec07f0
 Software is not only a gas (of Nathan Myhrvold's 4 Software Laws) but a Majorana particle that expands in many dimensions/universes ;)
