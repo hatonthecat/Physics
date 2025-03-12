@@ -119,3 +119,9 @@ https://www.sciencenews.org/blog/context/amateur-who-helped-einstein-see-light
 https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html
 
 https://news.ycombinator.com/item?id=41847563
+
+Github Metaphysics
+--
+Green
+
+
