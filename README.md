@@ -79,7 +79,20 @@ https://spectrum.ieee.org/superconducting-computer
 Strange Metals
 --
 
+https://www.scipost.org/SciPostPhys.6.5.061/pdf
+
 https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity
+
+"But in strange metals the dissipation—hence the resistivity—always seems to rise at the fastest possible rate. Moreover, that rate is proportional to Planck’s constant, a key value in quantum mechanics that determines how precisely certain properties of particles can possibly be measured. “Planckian dissipation,” as Zaanen dubbed it, implied that the behavior of electrons in strange metals must reflect blurry quantum effects that aren’t accounted for by Landau’s quasiparticles." 
+
+
+"By 2019, Planckian dissipation had turned out to be a general property of cuprates." https://www.nature.com/articles/s41567-018-0334-2
+
+![image](https://github.com/user-attachments/assets/190deb54-b95d-4716-bb7d-b95c559c7f7d)
+
+From context it sounds like a linear resistivity could reflect a limitation of the measuring instrument, rather than reflecting the average rate of increase in resistivity.
+
+Using a constant is as only as good as how well the constant reflects the conditions/level it is measuring.
 
 Cepheid variables
 --
