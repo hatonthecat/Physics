@@ -76,6 +76,11 @@ Superconductors:
 --
 https://spectrum.ieee.org/superconducting-computer
 
+Strange Metals
+--
+
+https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity
+
 Cepheid variables
 --
 
