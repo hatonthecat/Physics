@@ -94,6 +94,10 @@ From context it sounds like a linear resistivity could reflect a limitation of t
 
 Using a constant is only as good as how well the constant reflects the conditions/level it is measuring.
 
+https://www.science.org/doi/10.1126/science.abq6100 Shot noise in a strange metal Science 23 Nov 2023 Vol 382, Issue 6673 pp. 907-911 DOI: 10.1126/science.abq6100
+
+https://en.wikipedia.org/wiki/Unparticle_physics https://arxiv.org/pdf/0704.2457
+
 Cepheid variables
 --
 
