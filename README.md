@@ -92,7 +92,7 @@ https://www.science.org/content/article/strange-metals-point-whole-new-way-under
 
 From context it sounds like a linear resistivity could reflect a limitation of the measuring instrument, rather than reflecting the average rate of increase in resistivity.
 
-Using a constant is as only as good as how well the constant reflects the conditions/level it is measuring.
+Using a constant is only as good as how well the constant reflects the conditions/level it is measuring.
 
 Cepheid variables
 --
