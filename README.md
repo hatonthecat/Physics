@@ -90,7 +90,7 @@ https://www.science.org/content/article/strange-metals-point-whole-new-way-under
 
 ![image](https://github.com/user-attachments/assets/190deb54-b95d-4716-bb7d-b95c559c7f7d)
 
-From context it sounds like a linear resistivity could reflect a limitation of the measuring instrument, rather than reflecting the average rate of increase in resistivity.
+From context it sounds like a linear resistivity could reflect a limitation of the measuring instrument, rather than reflecting the average rate of increase in resistivity. However, this observation does not preclude a unique or more measurable observation of a new phase transition, state of matter, or form of conductivity if a priori states can be ruled out.
 
 Using a constant is only as good as how well the constant reflects the conditions/level it is measuring.
 
