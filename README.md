@@ -79,9 +79,13 @@ https://spectrum.ieee.org/superconducting-computer
 Strange Metals
 --
 
+https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/ (2023)
+
+https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/ (2024)
+
 https://www.scipost.org/SciPostPhys.6.5.061/pdf
 
-https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity
+https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity (2025)
 
 "But in strange metals the dissipation—hence the resistivity—always seems to rise at the fastest possible rate. Moreover, that rate is proportional to Planck’s constant, a key value in quantum mechanics that determines how precisely certain properties of particles can possibly be measured. “Planckian dissipation,” as Zaanen dubbed it, implied that the behavior of electrons in strange metals must reflect blurry quantum effects that aren’t accounted for by Landau’s quasiparticles." 
 
@@ -94,7 +98,7 @@ From context it sounds like a linear resistivity could reflect a limitation of t
 
 Using a constant is only as good as how well the constant reflects the conditions/level it is measuring.
 
-https://www.science.org/doi/10.1126/science.abq6100 Shot noise in a strange metal Science 23 Nov 2023 Vol 382, Issue 6673 pp. 907-911 DOI: 10.1126/science.abq6100
+https://www.science.org/doi/10.1126/science.abq6100  Shot noise in a strange metal Science 23 Nov 2023 Vol 382, Issue 6673 pp. 907-911 DOI: 10.1126/science.abq6100
 
 https://en.wikipedia.org/wiki/Unparticle_physics https://arxiv.org/pdf/0704.2457
 
