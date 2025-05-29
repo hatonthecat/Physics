@@ -85,6 +85,12 @@ https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-meta
 
 ![image](https://github.com/user-attachments/assets/661ee2a3-f5d5-4074-9870-2aba014302dc)
 
+Fermi liquids:
+
+![image](https://github.com/user-attachments/assets/142f6689-b51c-475e-b306-ab5a26250cf9)
+
+https://en.wikipedia.org/wiki/Fermi_liquid_theory
+
 https://www.scipost.org/SciPostPhys.6.5.061/pdf
 
 https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity (2025)
