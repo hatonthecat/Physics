@@ -85,7 +85,7 @@ https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-meta
 
 ![image](https://github.com/user-attachments/assets/661ee2a3-f5d5-4074-9870-2aba014302dc)
 
-Fermi liquids:
+Fermi liquids (rotated 90 degrees for comparative purpose):
 
 ![image](https://github.com/user-attachments/assets/142f6689-b51c-475e-b306-ab5a26250cf9)
 
