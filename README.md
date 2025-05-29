@@ -83,9 +83,14 @@ https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-wi
 
 https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/ (2024)
 
+![image](https://github.com/user-attachments/assets/661ee2a3-f5d5-4074-9870-2aba014302dc)
+
 https://www.scipost.org/SciPostPhys.6.5.061/pdf
 
 https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity (2025)
+
+![image](https://github.com/user-attachments/assets/211896c5-21e8-47f8-85e8-15039a889e64)
+
 
 "But in strange metals the dissipation—hence the resistivity—always seems to rise at the fastest possible rate. Moreover, that rate is proportional to Planck’s constant, a key value in quantum mechanics that determines how precisely certain properties of particles can possibly be measured. “Planckian dissipation,” as Zaanen dubbed it, implied that the behavior of electrons in strange metals must reflect blurry quantum effects that aren’t accounted for by Landau’s quasiparticles." 
 
