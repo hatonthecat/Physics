@@ -133,6 +133,31 @@ https://en.wikipedia.org/wiki/Unparticle_physics https://arxiv.org/pdf/0704.2457
 
 https://iopscience.iop.org/article/10.1088/1361-648X/aade19/ampdf  "Drude weight and superconducting weight"(2018)
 
+Questions for Strange Metals:
+
+1. Is [Signal Velocity](https://en.wikipedia.org/wiki/Signal_velocity) a measurable unit in Strange Metal Superconductivity? And In Critical Temperatures?
+   
+2. How does Signal Velocity operate in conventional metals? In Fiber Optic Cables? In Superconducting cables? In Strange Metals? 
+   
+3. How fast do electrons travel during superconductive signal propagation? Prior estimates have suggested 0.6 of c for conventional metals.
+
+https://www.wtamu.edu/~cbaird/sq/2014/02/19/what-is-the-speed-of-electricity/
+https://electronics.stackexchange.com/questions/464689/what-is-the-speed-of-electricity
+https://physics.stackexchange.com/questions/429381/what-is-the-drift-velocity-of-an-electron-in-a-superconductor
+
+4. How fast do electrons travel during strange metal superconductivity? During supra-critical Strange Metal Resistivity temperatures?
+
+5. Is the signal velocity a quadratic, exponential, or linear function of superconductors? in critical temperature states of strange metals? At what point do the strange metals become "bad conductors"?
+
+![image](https://github.com/user-attachments/assets/2b0f4663-f65c-483d-86ce-b35c6931a9e0)
+
+6. Are the electrons scattering into an alternate dimension if they are not contributing to the signal velocity? Are they forming Cooper Pairs in a complementary way, similar to in conventional superconductivity, but hidden in a different type of boson? 
+
+
+![image](https://github.com/user-attachments/assets/2760b4c9-0004-4ea8-bd94-d9ee74c0fffb)
+
+Does the      
+
 Cepheid variables
 --
 
