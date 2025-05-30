@@ -106,6 +106,12 @@ https://www.science.org/content/article/strange-metals-point-whole-new-way-under
 
 "But in strange metals the dissipation—hence the resistivity—always seems to rise at the fastest possible rate. Moreover, that rate is proportional to Planck’s constant, a key value in quantum mechanics that determines how precisely certain properties of particles can possibly be measured. “Planckian dissipation,” as Zaanen dubbed it, implied that the behavior of electrons in strange metals must reflect blurry quantum effects that aren’t accounted for by Landau’s quasiparticles." 
 
+https://en.wikipedia.org/wiki/Unconventional_superconductor#Superexchange 
+
+https://en.wikipedia.org/wiki/Soliton
+
+"Superexchange or Kramers–Anderson superexchange interaction, is a prototypical indirect exchange coupling between neighboring magnetic moments (usually next-nearest neighboring cations, see the schematic illustration of MnO below) by virtue of exchanging electrons through a non-magnetic anion known as the superexchange center. In this way, it differs from direct exchange, in which there is direct overlap of electron wave function from nearest neighboring cations not involving an intermediary anion or exchange center. While direct exchange can be either ferromagnetic or antiferromagnetic, the superexchange interaction is usually antiferromagnetic, preferring opposite alignment of the connected magnetic moments. Similar to the direct exchange, superexchange calls for the combined effect of Pauli exclusion principle and Coulomb's repulsion of the electrons. If the superexchange center and the magnetic moments it connects to are non-collinear, namely the atomic bonds are canted, the superexchange will be accompanied by the antisymmetric exchange known as the Dzyaloshinskii–Moriya interaction, which prefers orthogonal alignment of neighboring magnetic moments. In this situation, the symmetric and antisymmetric contributions compete with each other and can result in versatile magnetic spin textures such as magnetic skyrmions."
+
 
 "By 2019, Planckian dissipation had turned out to be a general property of cuprates." https://www.nature.com/articles/s41567-018-0334-2
 
