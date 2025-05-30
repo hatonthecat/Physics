@@ -131,6 +131,8 @@ https://www.science.org/doi/10.1126/science.abq6100  Shot noise in a strange met
 
 https://en.wikipedia.org/wiki/Unparticle_physics https://arxiv.org/pdf/0704.2457
 
+https://iopscience.iop.org/article/10.1088/1361-648X/aade19/ampdf  "Drude weight and superconducting weight"(2018)
+
 Cepheid variables
 --
 
