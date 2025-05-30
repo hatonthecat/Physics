@@ -156,7 +156,7 @@ https://physics.stackexchange.com/questions/429381/what-is-the-drift-velocity-of
 
 ![image](https://github.com/user-attachments/assets/2760b4c9-0004-4ea8-bd94-d9ee74c0fffb)
 
-Does the      
+   
 
 Cepheid variables
 --
