@@ -91,6 +91,12 @@ Fermi liquids (rotated 90 degrees for comparative purpose):
 
 https://en.wikipedia.org/wiki/Fermi_liquid_theory
 
+Rotated 90 degrees for comparison:
+
+![image](https://github.com/user-attachments/assets/367c5cbb-686f-46d2-932f-bab6a851126c)
+
+https://people.physics.illinois.edu/Phillips/images/talks/rutgersfeb182020.pdf
+
 https://www.scipost.org/SciPostPhys.6.5.061/pdf
 
 https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity (2025)
