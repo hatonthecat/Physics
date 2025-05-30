@@ -93,9 +93,15 @@ https://en.wikipedia.org/wiki/Fermi_liquid_theory
 
 Rotated 90 degrees for comparison:
 
-![image](https://github.com/user-attachments/assets/367c5cbb-686f-46d2-932f-bab6a851126c)
+![image](https://github.com/user-attachments/assets/367c5cbb-686f-46d2-932f-bab6a851126c) (p.12)
 
 https://people.physics.illinois.edu/Phillips/images/talks/rutgersfeb182020.pdf
+
+Rotated 90 degrees for comparison:
+
+![image](https://github.com/user-attachments/assets/004335f3-3bd6-49de-923c-1a51426961eb)
+
+https://arxiv.org/pdf/2503.09704 (p.4/18) "Resolving the Kagome Origin of the Strange Metallicity in Ni3In"
 
 https://www.scipost.org/SciPostPhys.6.5.061/pdf
 
