@@ -112,6 +112,8 @@ https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-wi
 
 https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/ (2024)
 
+https://news.ycombinator.com/item?id=22074979 2019
+
 ![image](https://github.com/user-attachments/assets/661ee2a3-f5d5-4074-9870-2aba014302dc)
 
 Fermi liquids (rotated 90 degrees for comparative purpose):
