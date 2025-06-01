@@ -92,6 +92,19 @@ https://www.youtube.com/watch?v=Dy_3RAxFlIk Holographic Apps
 
 https://www.youtube.com/watch?v=jzyFqy9wVNY String Theory lecture
 
+Planck Constant & Metrology
+---
+
+https://arxiv.org/pdf/1409.7597  Progress on accurate measurement of the Planck constant: watt balance and counting atoms 2014
+
+https://arxiv.org/html/2210.06262v3
+
+https://arxiv.org/pdf/1301.6043
+
+https://arxiv.org/abs/1807.10951 Planckian dissipation, minimal viscosity and the transport in cuprate strange metals
+
+https://www.lorentz.leidenuniv.nl/zaanen/wordpress/wp-content/uploads/2021/10/Lectures-on-Quantum-Supreme-matter.pdf
+
 Strange Metals
 --
 
