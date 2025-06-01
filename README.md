@@ -74,7 +74,23 @@ The Stallion could be usedful in identifying wreckage on Mars and the Moon for h
 
 Superconductors:
 --
+https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/
+
+https://www.quantamagazine.org/graphene-superconductors-may-be-less-exotic-than-physicists-hoped-20210614/
+
+https://arxiv.org/pdf/2109.11325 Crystal gravity https://www.scipost.org/SciPostPhys.13.2.039/pdf
+
+https://www.lorentz.leidenuniv.nl/zaanen/wordpress/wp-content/uploads/2023/10/musingsb-1.pdf 
+
+https://www.science.org/doi/10.1126/science.aaw8850  http://universiteitleiden.nl/en/news/2019/11/superconductivity-theory-under-attack
+
 https://spectrum.ieee.org/superconducting-computer
+
+https://www.youtube.com/watch?v=VXaR8V3NOi8 
+
+https://www.youtube.com/watch?v=Dy_3RAxFlIk Holographic Apps
+
+https://www.youtube.com/watch?v=jzyFqy9wVNY String Theory lecture
 
 Strange Metals
 --
