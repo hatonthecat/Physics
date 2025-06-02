@@ -92,6 +92,8 @@ https://www.youtube.com/watch?v=Dy_3RAxFlIk Holographic Apps
 
 https://www.youtube.com/watch?v=jzyFqy9wVNY String Theory lecture
 
+https://en.wikipedia.org/wiki/Cooper_pair#Relationship_to_superconductivity
+
 Planck Constant & Metrology
 ---
 
@@ -104,6 +106,17 @@ https://arxiv.org/pdf/1301.6043
 https://arxiv.org/abs/1807.10951 Planckian dissipation, minimal viscosity and the transport in cuprate strange metals
 
 https://www.lorentz.leidenuniv.nl/zaanen/wordpress/wp-content/uploads/2021/10/Lectures-on-Quantum-Supreme-matter.pdf
+
+Super insulators
+--
+
+https://en.wikipedia.org/wiki/Superinsulator
+
+https://en.wikipedia.org/wiki/Pion
+
+Quantum Chromodynamics
+---
+https://en.wikipedia.org/wiki/Color_charge
 
 Strange Metals
 --
