@@ -2,6 +2,8 @@
 Assorted Articles
 --
 
+https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454 though magnetic fields appear beyond the heliosphere it's fascinating that there is an instrument able to measure it. parallel or perpendicular? no assumptions should be made...
+
 https://interestingengineering.com/energy/gravity-batteries-for-renewable-energy 
 https://www.youtube.com/watch?v=mxKsK8lPpv8 Sometimes the simplest ideas are the best ideas.
 This article reminds me of an MIT study that asked children and engineers how to get an object (ping pong ball?) out of a jar without using hands. Engineers devised an elaborate contraption. Children poured water in the jar so the object floated out.
