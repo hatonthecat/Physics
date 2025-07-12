@@ -2,6 +2,16 @@
 Assorted Articles
 --
 
+7-11-25
+
+https://scienmag.com/university-of-seville-breaks-120-year-old-mystery-revises-a-key-einstein-concept
+
+"Professor Martín-Olalla’s contribution, recently published in The European Physical Journal Plus, dismantles Einstein’s decoupling of the Nernst theorem from the second law. By introducing nuanced considerations omitted by both Nernst and Einstein, Martín-Olalla presents a refined formalism that reconciles these perspectives. He emphasizes the necessity of the hypothetical engine’s existence within the formalism of the second law—not as a physical, realizable machine but as a virtual concept essential to the second principle’s structure. This subtle but profound reinterpretation recasts the theorem as a direct consequence of the second law.
+
+What sets this new proof apart is the notion that the supposed engine, while integral to the mathematical framework, neither consumes heat nor performs work. This ensures that it does not contravene the second law, circumventing a key objection that led Einstein to separate the Nernst theorem as an independent postulate. By accommodating the engine’s “virtual” nature, Professor Martín-Olalla bridges the gap between abstract thermodynamic principles and physical reality, restoring logical coherence to entropy’s behavior at the lowest temperatures."
+
+
+
 https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454 though magnetic fields appear beyond the heliosphere it's fascinating that there is an instrument able to measure it. parallel or perpendicular? no assumptions should be made...
 
 https://interestingengineering.com/energy/gravity-batteries-for-renewable-energy 
