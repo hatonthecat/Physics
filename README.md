@@ -4,7 +4,11 @@ Assorted Articles
 
 7-22-25
 
-https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/
+https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/ If AI is so smart, and people are so enamored by AI's counterintuitive reasoning, then perhaps they may be more open-minded about their fellow "counterintuitive" humans that they've dismissed for so long. But I won't be that optimistic.
+
+"It took months of effort to understand what the AI was doing(opens a new tab). It turned out that the machine had used a counterintuitive trick to achieve its goals. It added an additional three-kilometer-long ring between the main interferometer and the detector to circulate the light before it exited the interferometer’s arms.
+
+Adhikari’s team realized that the AI was probably using some esoteric theoretical principles that Russian physicists had identified decades ago to reduce quantum mechanical noise."
 
 7-11-25
 
