@@ -2,6 +2,10 @@
 Assorted Articles
 --
 
+7-22-25
+
+https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/
+
 7-11-25
 
 https://scienmag.com/university-of-seville-breaks-120-year-old-mystery-revises-a-key-einstein-concept
