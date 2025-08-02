@@ -2,6 +2,14 @@
 Assorted Articles
 --
 
+8-2-2025
+--
+https://www.thecooldown.com/green-tech/dt-fusion-energy-breakthrough-research/
+
+"Ruhlig's early observations were mostly forgotten until Los Alamos physicist Mark Chadwick stumbled upon a 1986 recording of another physicist referencing "pre-war" DT fusion experiments. That discovery prompted a deeper dive, eventually unearthing Ruhlig's sparse but pivotal paper describing his experiments and observations. 
+
+From there, the physicists decided to replicate his experiment at Duke University's Triangle Universities Nuclear Laboratory. Their findings, published in Physical Review C, confirmed secondary DT fusion reactions and proved that Ruhlig's claims, though imprecise by today's standards, were fundamentally correct."
+
 7-22-25
 
 https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/ If AI is so smart, and people are so enamored by AI's counterintuitive reasoning, then perhaps they may be more open-minded about their fellow "counterintuitive" humans that they've dismissed for so long. But I won't be that optimistic.
