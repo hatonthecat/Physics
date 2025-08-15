@@ -2,6 +2,13 @@
 Assorted Articles
 --
 
+8-15-2025
+--
+Research [Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljLL7AQAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ljLL7AQAAAAJ:8k81kl-MbHgC)
+10 November 2010
+Quantum Entanglements and Hauntological Relations of Inheritance: Dis/continuities, SpaceTime Enfoldings, and Justice-to-Come
+Author: Karen Barad 
+
 8-2-2025
 --
 https://www.thecooldown.com/green-tech/dt-fusion-energy-breakthrough-research/
