@@ -2,6 +2,22 @@
 Assorted Articles
 --
 
+2-15-2026
+--
+https://thebulletin.org/premium/2024-11/the-entanglement-of-fusion-energy-research-and-bombs/
+
+https://www.youtube.com/watch?v=8jC9W2vbyrs 
+
+"https://en.wikipedia.org/wiki/Inertial_confinement_fusion
+Power extraction
+ICF systems face some of the same secondary power extraction problems as MCF systems. One of the primary concerns is how to successfully remove heat from the reaction chamber without interfering with the targets and driver beams. Another concern is that the released neutrons react with the reactor structure, mechanically weakening it, and turning it intensely radioactive. Conventional metals such as steel would have a short lifetime and require frequent replacement of the core containment walls. Another concern is fusion afterdamp (debris left in the reaction chamber), which could interfere with subsequent shots, including helium ash produced by fusion, along with unburned hydrogen and other elements used in the fuel pellet. This problem is most troublesome with indirect drive systems. If the driver energy misses the fuel pellet completely and strikes the containment chamber, material could foul the interaction region, or the lenses or focusing elements."
+
+https://en.wikipedia.org/wiki/Hohlraum
+
+"The indirect drive approach to inertial confinement fusion is as follows: the fusion fuel capsule is held inside a cylindrical hohlraum. The hohlraum body is manufactured using a high-Z (high atomic number) element, usually gold or uranium. Inside the hohlraum is a fuel capsule containing deuterium and tritium (D-T) fuel. A frozen layer of D-T ice adheres to the inside of the fuel capsule. The fuel capsule wall is fabricated using light elements such as plastic, beryllium, or high-density carbon, i.e. diamond. The outer portion of the fuel capsule explodes outward when ablated by the X-rays produced by the hohlraum wall upon irradiation by lasers. Due to Newton's third law, the inner portion of the fuel capsule implodes, causing the D-T fuel to be supercompressed, activating a fusion reaction.
+
+The radiation source (e.g., laser) is pointed at the interior of the hohlraum rather than at the fuel capsule itself. The hohlraum absorbs and re-radiates the energy as X-rays, a process known as indirect drive. The advantage of this approach, compared to direct drive, is that high-mode structures from the laser spot are smoothed out when the energy is re-radiated from the hohlraum walls. The disadvantage of this approach is that low-mode asymmetries are more complex to control. It is essential to be able to control both high-mode and low-mode asymmetries to achieve a uniform implosion."
+
 8-15-2025
 --
 Research [Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljLL7AQAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ljLL7AQAAAAJ:8k81kl-MbHgC)
