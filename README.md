@@ -5,7 +5,7 @@ Assorted Articles
 2-16-2026
 --
 
-Nuclear fusion is generally exothermic for elements lighter than iron, releasing energy as nuclei combine. However, fusion becomes endothermic (absorbs energy) when fusing nuclei heavier than iron, specifically during the final stages of stellar nucleosynthesis where the core runs out of fuel. This endothermic process causes the star to collapse, often resulting in a supernova. 
+"Nuclear fusion is generally exothermic for elements lighter than iron, releasing energy as nuclei combine. However, fusion becomes endothermic (absorbs energy) when fusing nuclei heavier than iron, specifically during the final stages of stellar nucleosynthesis where the core runs out of fuel. This endothermic process causes the star to collapse, often resulting in a supernova." 
 
 https://www.reddit.com/r/askscience/comments/5qats3/why_is_the_endothermic_nature_of_the_iron_fusion/
 
