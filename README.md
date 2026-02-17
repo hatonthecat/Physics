@@ -2,6 +2,9 @@
 Assorted Articles
 --
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/536c1270-e6a1-495f-b815-84a4303052d1" />
+
+
 2-16-2026
 --
 
