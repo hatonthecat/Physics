@@ -1,6 +1,17 @@
 # Physics
 Assorted Articles
+==
+
+9-3-2026
 --
+https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
+
+
+
+Earlier posts
+--
+
+https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/536c1270-e6a1-495f-b815-84a4303052d1" />
 
