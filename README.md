@@ -2,6 +2,11 @@
 Assorted Articles
 ==
 
+9-4-26
+--
+
+https://spacedaily.com/a-in-1972-physicists-proposed-hunting-for-gravitational-waves-with-giant-laser-interferometers-and-it-took-until-2015-after-four-decades-of-null-results-for-twin-facilities-in-louisiana-and-washingt/
+
 9-3-2026
 --
 https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
