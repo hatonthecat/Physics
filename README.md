@@ -2,6 +2,8 @@
 Assorted Articles
 ==
 
+9-7-26: https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world
+
 9-4-26
 --
 
